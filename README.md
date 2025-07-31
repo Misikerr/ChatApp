@@ -176,5 +176,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 > Built with 💙 using React, Node.js, MongoDB & lots of ☕
-
-```
