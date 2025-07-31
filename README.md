@@ -1,5 +1,5 @@
 
-# 💬 ChatApp – Real-Time Messaging Platform
+# 💬 SELAM-ChatApp – Real-Time Messaging Platform
 
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
